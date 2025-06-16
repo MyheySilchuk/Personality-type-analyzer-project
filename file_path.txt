@@ -1,1 +1,1 @@
-C:\Users\user\Desktop\Projects_portfolio\ExtraVSIntro\personality_dataset.csv
+C:\personality_dataset.csv
